@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbc546e9-a859-4e2c-bedc-1c8fabfe1959": {
+      "ProjectGuid": "fbc546e9-a859-4e2c-bedc-1c8fabfe1959",
+      "DisplayName": "Task Manager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
