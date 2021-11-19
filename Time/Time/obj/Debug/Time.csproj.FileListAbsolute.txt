@@ -1,0 +1,8 @@
+F:\GeekBrains HW\HW5\Time\Time\bin\Debug\Time.exe.config
+F:\GeekBrains HW\HW5\Time\Time\bin\Debug\Time.exe
+F:\GeekBrains HW\HW5\Time\Time\bin\Debug\Time.pdb
+F:\GeekBrains HW\HW5\Time\Time\obj\Debug\Time.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW5\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW5\Time\Time\obj\Debug\Time.exe
+F:\GeekBrains HW\HW5\Time\Time\obj\Debug\Time.pdb
+F:\GeekBrains HW\HW5\Time\Time\obj\Debug\Time.csproj.SuggestedBindingRedirects.cache
