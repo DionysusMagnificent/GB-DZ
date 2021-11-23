@@ -1,0 +1,7 @@
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe.config
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\bin\Debug\BinaryFile.exe
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\bin\Debug\BinaryFile.pdb
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\obj\Debug\BinaryFile.csproj.SuggestedBindingRedirects.cache
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\obj\Debug\BinaryFile.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\obj\Debug\BinaryFile.exe
+F:\GeekBrains HW\HW5\BinaryFile\BinaryFile\obj\Debug\BinaryFile.pdb

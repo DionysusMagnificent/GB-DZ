@@ -1,0 +1,16 @@
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+F:\GeekBrains HW\HW6\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+F:\GeekBrains HW\копия\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+F:\GeekBrains HW\копия\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+F:\GeekBrains HW\копия\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+F:\GeekBrains HW\копия\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.AssemblyReference.cache
+F:\GeekBrains HW\копия\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.SuggestedBindingRedirects.cache
+F:\GeekBrains HW\копия\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\копия\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+F:\GeekBrains HW\копия\Task Manager\Task Manager\obj\Debug\Task Manager.pdb

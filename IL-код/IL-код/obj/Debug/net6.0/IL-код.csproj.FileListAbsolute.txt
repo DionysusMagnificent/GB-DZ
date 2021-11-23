@@ -1,0 +1,16 @@
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\IL-код.exe
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\IL-код.deps.json
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\IL-код.runtimeconfig.json
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\IL-код.dll
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\ref\IL-код.dll
+F:\GeekBrains HW\IL-код\IL-код\bin\Debug\net6.0\IL-код.pdb
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.GlobalUsings.g.cs
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.csproj.AssemblyReference.cache
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.AssemblyInfoInputs.cache
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.AssemblyInfo.cs
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.csproj.CoreCompileInputs.cache
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.dll
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\ref\IL-код.dll
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.pdb
+F:\GeekBrains HW\IL-код\IL-код\obj\Debug\net6.0\IL-код.genruntimeconfig.cache
